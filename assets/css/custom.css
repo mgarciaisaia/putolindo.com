@@ -1,5 +1,6 @@
 #content {
-  margin: 40px;
+  margin: 40px auto;
+  max-width: min(83ex, calc(100% - 80px));
 }
 
 header .blog-logo img {
