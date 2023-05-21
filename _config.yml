@@ -26,9 +26,11 @@ permalink: pretty
 
 # Build settings
 markdown: kramdown
-remote_theme: "mgarciaisaia/jasper@1.1.1"
+remote_theme: "mgarciaisaia/jasper@1.1.3"
 plugins:
   - jekyll-feed
+
+social_thumbnail: images/fernando-bw-white-512.png
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
