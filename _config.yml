@@ -22,6 +22,8 @@ url: "https://putolindo.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: putolindo_com
 github_username:  mgarciaisaia
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 remote_theme: "mgarciaisaia/jasper@1.1.1"
