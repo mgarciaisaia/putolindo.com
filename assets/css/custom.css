@@ -15,3 +15,7 @@ footer.read-next-story .read-next-story .post:before {
 footer.read-next-story .read-next-story.prev .post:before {
   content: "Anterior"
 }
+
+.main-header a {
+  text-decoration: none;
+}
