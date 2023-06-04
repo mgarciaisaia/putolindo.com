@@ -7,3 +7,11 @@ header .blog-logo img {
   height: 128px;
   border-radius: 50%;
 }
+
+footer.read-next-story .read-next-story .post:before {
+  content: "Siguiente"
+}
+
+footer.read-next-story .read-next-story.prev .post:before {
+  content: "Anterior"
+}

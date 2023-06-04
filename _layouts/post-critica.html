@@ -39,3 +39,30 @@ logo: 'images/fernando-bw-white-512.png'
     <p>{{ content }}</p>
 
 </main>
+
+<footer class="read-next-story">
+    {% if page.next %}
+        <a class="read-next-story {% if page.next.cover %}" style="background-image: url({{ next.cover | relative_url }}){% else %}no-cover{% endif %}" href="{{ page.next.url | relative_url }}">
+            <section class="post">
+                <h2>{{ page.next.title }}</h2>
+                {% if page.next.subtitle %}
+                <p>{{ page.next.subtitle | strip_html }}</p>
+                {% else %}
+                <p>{{ page.next.content | strip_html | truncatewords:30 }}</p>
+                {% endif %}
+            </section>
+        </a>
+    {% endif %}
+    {% if page.previous %}
+        <a class="read-next-story prev {% if page.previous.cover %}" style="background-image: url({{ previous.cover | relative_url }}){% else %}no-cover{% endif %}" href="{{ page.previous.url | relative_url }}">
+            <section class="post">
+                <h2>{{ page.previous.title }}</h2>
+                {% if page.previous.subtitle %}
+                <p>{{ page.previous.subtitle | strip_html }}</p>
+                {% else %}
+                <p>{{ page.previous.content | strip_html | truncatewords:30 }}</p>
+                {% endif %}
+            </section>
+        </a>
+    {% endif %}
+</footer>
