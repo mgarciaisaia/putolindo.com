@@ -31,3 +31,5 @@ Esto sucedió durante el primer mes. Ya al segundo mes, en vez de cientos eran c
 Y así pasaron los días y el hombre hacía su vida normal, la vida que todos hacemos pero en su casa de vidrio, su vida vestido o desnudo, solo o en compañía, cocinando o leyendo, caminando o acostado, hablando por teléfono o viendo televisión.
 
 Un buen día el buen hombre decidió salir de su casa temiendo lo peor, temiendo que lo lincharan, que lo insultaran, que le pegaran hasta matarlo, por inmoral... por ser como todos. Por mostrarse y mostrarles cómo era y cómo eran. El hombre salió de su casa y no pasó nada. Los habitantes del pueblo lo saludaban normalmente, como si fuera uno más, otro anormal, otro normal, como todos ellos, como él; se había ido el miedo, la vergüenza, el pudor. Todos en el pueblo empezaron a sonreír al verse por primera vez, al conocerse por primera vez y al ver que después de todo este buen hombre hacía en la intimidad de su casa de vidrio lo que todos hacían entre cuatro paredes. Y no era tan grave.
+
+[![Captura de la versión impresa del artículo "La casa de vidrio"](/images/critica/20090321.jpg)](/images/critica/20090321.jpg)

@@ -25,3 +25,5 @@ Casi de taquito, y haciéndome el canchero, les contestaba a todos mis amigos qu
 Les aclaro que soy huérfano.
 
 Mi novio y María se fueron a lo de sus respectivas familias y quedé solo en casa. Cuando me quedo solo en casa siempre siento que me quedo conmigo, y esta vez me empecé a sentir muy solo. No sabía si llamar a alguien, salir a caminar, escuchar música, o tomar coraje y encontrarme con el sentimiento verdadero. Extrañé a mi madre. Me alegró encontrarme con esta tristeza, era fácil de solucionar. Tengo las cenizas de mi madre guardadas en un placard en una urna que me regaló Lanata. Es una urna de ébano con tornillos de bronce. La bajé, la puse en la mesa de la cocina, agarré un destornillador, le saqué la tapa, metí las manos en las cenizas y comencé a sentir paz y felicidad. Esto era todo.
+
+[![Captura de la versión impresa del artículo "Casi no lo cuento"](/images/critica/20081020.jpg)](/images/critica/20081020.jpg)

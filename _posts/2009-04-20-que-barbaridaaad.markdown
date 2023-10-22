@@ -19,3 +19,5 @@ Terminemos con los que hablan entre ellos. Yo comprendo un comentario cada tanto
 Más allá de las respuestas que pude darme hoy, sigo sin entender para qué van, cómo no les da vergüenza lo tremendamente molestos que son y, por último, me pregunto: ¿Serán conscientes?... Tal vez usted que está leyendo esto es uno de ellos y en este momento está pensando:
 
 "¡Qué barbaridaaaaad!".
+
+[![Captura de la versión impresa del artículo "¡Qué barbaridad!"](/images/critica/20090420.jpg)](/images/critica/20090420.jpg)

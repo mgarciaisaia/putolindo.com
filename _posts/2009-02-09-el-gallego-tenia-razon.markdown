@@ -25,3 +25,5 @@ Para comprobar todo lo que estoy diciendo métanse en una casa de regalos o en u
 Y la lista es interminable y podría seguir horas.
 
 En ceniceros he visto mucha variedad también, ceniceros hiperdiseñados que dejan de cumplir su función, el cigarrillo se cae y también vienen casi lisos como las cucharas. Creo que soy un adelantado, no estaría mal un cenicero con forma de pocillo de café, o por qué no un pocillo de café con forma de cenicero. ¡Que divertidooooo! ¿no?
+
+[![Captura de la versión impresa del artículo "El gallego tenía razón"](/images/critica/20090209.jpg)](/images/critica/20090209.jpg)

@@ -21,3 +21,5 @@ De hecho, los veterinarios que atienden a estos perritos no son veterinarios com
 Actualmente, la industria y el negocio que rodea a estos liliputienses es enorme: hay camitas, casitas, cuchitas, collarcitos, correítas, ropita, zapatitos, comederitos, calcetincitos, guantecitos, cascabelitos, peinecitos, tijeritas, valijitas, mantitas, golosinitas, relojitos, libritos, anteojitos, moñitos, hebillitas, comidita, chichecitos, cadenitas, medallitas, pañuelitos, gorritos, sombreritos, y miles de “itos” más para estos perritos y sus dueñas... las divas en soledad.
 
 Siempre habrá mantenidas. Siempre habrá divas. Siempre habrá algo que hacer. Siempre habrá un espacio que llenar. Siempre habrá gente que tiene que comer. Siempre habrá un negocio para hacer y siempre habrá soledad, por eso estamos viendo tantos y veremos muchos más, pero muchos más, muchísimos más, de estos hermositos perritos que son un negoción.
+
+[![Captura de la versión impresa del artículo "Gran negocito"](/images/critica/20090105.jpg)](/images/critica/20090105.jpg)

@@ -27,3 +27,5 @@ Desde una mujer violada hasta un alfeñique pelando con un gladiador, pasando po
 Lo vemos cuando la gacela se retuerce con alma y vida hasta el final en las mandíbulas del león. La gacela no es víctima.
 
 Las víctimas quedan quietas y siempre cometen un último acto de cobardía que es llamar monstruo al otro.
+
+[![Captura de la versión impresa del artículo "Los quietos"](/images/critica/20090516.jpg)](/images/critica/20090516.jpg)

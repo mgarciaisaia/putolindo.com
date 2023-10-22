@@ -27,3 +27,5 @@ Montevideo es tranquila, lenta, perdida, nostálgica, apolillada, quieta, humild
 O como dice un chiste uruguayo... “Cuando un uruguayo quiere conocer la Argentina maneja hasta Punta del Este”.
 
 Queridos porteños, hagamos un trato. Juro y prometo que si no compran ni un solo lote más en mi querida Montevideo, yo el uruguayo más asqueroso y más apestoso, el más indeseado, el más impresentable maleducado e irrespetuoso... dejo Buenos Aires y cruzo a la otra orilla, cruzo a mi querida Montevideo, ¡como buen uruguayo!... ¿o argentino?... que soy.
+
+[![Captura de la versión impresa del artículo "La peste uruguaya"](/images/critica/20090328.jpg)](/images/critica/20090328.jpg)

@@ -17,3 +17,5 @@ Están también los que tienen los lugares sagrados. Víctor, un vecino, no conc
 En cuestiones de cómo llevar el orden propio hay miles de fórmulas y modos. Algunos están cerca de la obsesión y de la manía y otros son más lógicos. El tipo más desordenado que vi en mi vida es un famoso pintor amigo, al que no voy a nombrar. Sin embargo, existe un orden bellísimo, espontáneo y armónico en sus pinturas.
 
 Aun cuando las personas no son ordenadas o cuando las organizaciones o estructuras están en desorden, existe un orden natural, universal que nos lleva a todos y a todas las cosas tarde o temprano a un orden automático, vertical y justo. Tal vez por eso ese cartel...
+
+[![Captura de la versión impresa del artículo "El cartel del escritorio"](/images/critica/20090112.jpg)](/images/critica/20090112.jpg)

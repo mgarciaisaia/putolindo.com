@@ -44,3 +44,5 @@ Todos sabemos todo... porque todo lo sabemos y porque así nos conviene porque s
 Es mejor así, todo verdad, todo inventado, todo por derecha y por izquierda, todo como sea, pero es, no seas bobo... quedate muza... y cualquier cosa llamame... que yo tengo un amigo de un primo de una vedette que se casó con un galán amante de un chef del canal Gourmet que se acostaba con una que era el culo de tal marca que desfilaba para tal que estaba en la lista de no me acuerdo quién... pucha, ¿quién era?...
 
 ¡Aaah... era yo!... ¡Llamame a mí!... Pero no me nombres.
+
+[![Captura de la versión impresa del artículo "Pero no me nombres"](/images/critica/20090509.jpg)](/images/critica/20090509.jpg)

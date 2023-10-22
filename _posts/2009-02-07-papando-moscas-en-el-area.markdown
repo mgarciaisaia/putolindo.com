@@ -25,3 +25,5 @@ Casi como dormida y entumecida en sus reflejos, casi como en coma, casi ignorant
 Por vivos, por chistosos, porque duele ver la realidad y era más fácil hacer chistes y humoradas, dejaron pasar otra pelota. Y lo peor es que ni siquiera están dormidos, están cancheritos pensando que hay resto y changüí, porque la Argentina es grande y los siete climas y bla, bla, bla...
 
 Ya pasó, ya fue, tarde, gol de Néstor y Cristina. Nosotros, los medios, los árbitros, estamos gozando de un baño reconfortante, pues hemos cumplido con nuestro trabajo: informar, avisar, chiflar. El poder cumplió también, silenció otra voz. Mal o bien, poder y medios actuaron... silencio de radio, desunión, enfrentamiento, confusión... los pingüinos 1-los argentinos 0... ¿por qué...? Porque estaban papando moscas en el área.
+
+[![Captura de la versión impresa del artículo "Papando moscas en el área"](/images/critica/20090207.jpg)](/images/critica/20090207.jpg)

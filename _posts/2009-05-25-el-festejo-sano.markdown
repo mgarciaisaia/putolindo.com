@@ -35,3 +35,5 @@ Sin embargo se siguen cumpliendo los años sin cesar y no por eso creo que estem
 El amor a las cosas nace y crece solito y despacito dentro de cada uno. Siempre me chocó que los maestros nos dijeran y nos ordenaran amar a la patria, sentía que creían que éramos tarados, salvajes e insensibles. Tal vez la apatía y el desencanto en estas fechas son consecuencia de un residuo de rebeldía por ese machacar escolar.
 
 También reconozco que hay años en los que quiero festejar y años en los que no, y no está necesariamente relacionado con estar contento con quien gobierna. Festejar es finalmente estar con ánimo, si estás animado comprate la mejor escarapela y mostrala orgulloso, tragate miles de churros y empachate con chocolate y si no quedate piola que no solamente no es la muerte de nadie, sino que es tu íntimo y sano respeto hacia vos y hacia tu patria. ¡Salud!
+
+[![Captura de la versión impresa del artículo "El festejo sano"](/images/critica/20090525.jpg)](/images/critica/20090525.jpg)

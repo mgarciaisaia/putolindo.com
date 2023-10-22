@@ -39,3 +39,5 @@ Esto es un papelón, digo, utilizar la contratapa de un diario tan serio para ma
 Te aburrí… y tu silencio también me aburrió, lector.
 
 Como decía mi tía Yolanda: “¡Que difícil es todo!”, hacerse entender, digo, o como me dijo Alejandro, blablabla.
+
+[![Captura de la versión impresa del artículo "Feliz cumpleaños"](/images/critica/20090131.jpg)](/images/critica/20090131.jpg)
